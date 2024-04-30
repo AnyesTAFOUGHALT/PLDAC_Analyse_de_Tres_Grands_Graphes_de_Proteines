@@ -1,0 +1,57 @@
+pour 10
+shuffle 30
+session démarrée, son id est  local-1714434792588
+here :  /data/bd/dataset/proteine/80_80/G99/TEST_RACHA_CALCUL_COMPOSANTES/partitions/10_partitions
+                                                                                
+G prime  318.4092836380005
+Time total    6119.700418710709
+
+pour 20
+shuffle 60
+session démarrée, son id est  local-1714395912286
+here :  /data/bd/dataset/proteine/80_80/G99/TEST_RACHA_CALCUL_COMPOSANTES/partitions/20_partitions
+                                                                                
+G prime  343.11279368400574
+Time total    4639.943820714951
+
+
+pour 30
+shuffle 90
+session démarrée, son id est  local-1714474814547
+here :  /data/bd/dataset/proteine/80_80/G99/TEST_RACHA_CALCUL_COMPOSANTES/partitions/30_partitions
+                                                                                
+G prime  375.805379152298
+Time total    3402.2417879104614
+
+
+
+pour 40
+shuffle 120
+session démarrée, son id est  local-1714482685020
+here :  /data/bd/dataset/proteine/80_80/G99/TEST_RACHA_CALCUL_COMPOSANTES/partitions/40_partitions
+                                                                                
+G prime  386.84582018852234
+Time total    2751.9887478351593
+
+
+pour 50
+shuffle 150
+session démarrée, son id est  local-1714380608043
+here :  /data/bd/dataset/proteine/80_80/G99/TEST_RACHA_CALCUL_COMPOSANTES/partitions/50_partitions
+                                                                                
+
+G prime  402.47188997268677 => 399
+Time total    2566.8542625904083
+
+60
+                                                                                
+G prime  409.04388642311096
+Time total    1987.750917673111
+
+pour 150
+shuffle 180
+session démarrée, son id est  local-1714391197415
+here :  /data/bd/dataset/proteine/80_80/G99/TEST_RACHA_CALCUL_COMPOSANTES/partitions/150_partitions
+                                                                                
+G prime  464.7268805503845
+Time total    2229.211688041687
